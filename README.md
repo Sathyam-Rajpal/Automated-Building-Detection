@@ -34,3 +34,5 @@ trained on ImageNet dataset and finally up-sample the images to the same size to
 - COMPARATIVE PERFORMANCE
 
      ![image](https://user-images.githubusercontent.com/45162308/119216841-a865df80-baf3-11eb-8ae8-31346fc34b54.png)
+
+* Link to the dataset: https://www.cs.toronto.edu/~vmnih/data/
